@@ -1,0 +1,28 @@
+this framework is an GNU app (Lua-bulided) 
+
+how to run like GNU?,
+
+type in CLI ( first )
+
+
+
+
+chmod +x ponion.lua 
+
+
+
+
+type then
+
+
+mv ponion $PREFIX/bin/ponion
+
+
+
+
+now it is GNU an your device
+
+(builded by CoolyDucks)
+(Typed by CoolyDucks)
+(chmoded by CoolyDucks)
+(everything here by CoolyDucks)
